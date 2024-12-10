@@ -31,7 +31,7 @@ def main(csv_file, output_file):
 
 
     # Step 4: Perform stratified k-fold cross-validation for each classifier
-    k = 2
+    k = 5
     skf = StratifiedKFold(n_splits=k, shuffle=True, random_state=42)
 
     results = {}
