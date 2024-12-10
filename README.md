@@ -1,4 +1,4 @@
-# Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach Supplementary Material Section
+![image](https://github.com/user-attachments/assets/2e340c36-6085-4aaf-89d2-95698db79e4a)![image](https://github.com/user-attachments/assets/b20a4615-52a7-483a-80d3-10a13f08e998)# Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach Supplementary Material Section
 This repository reproduces the experiments of this AAAI 2025 entitled "Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach"
 
 # Abstract
@@ -16,6 +16,12 @@ The complete source code used in this research, including scripts for training a
 1. **Bash** **Shell**: Ensure you have a Bash-compatible shell to execute the script.
 2. **Python 3.x:** The script calls several Python scripts. Ensure Python 3 is installed and accessible via python3.
 3. **Python Dependencies:** Install any required libraries for the Python scripts. Common dependencies include:
-   numpy
-   pandas
-   scikit-learn
+   -> numpy
+   -> pandas
+   -> scikit-learn
+   
+# Datasets
+1. **LeakDB**: https://zenodo.org/records/13985057
+2. **NSL-KDD**: https://www.unb.ca/cic/datasets/nsl.html
+3. **SG-MITM**: https://zenodo.org/records/8375657
+4. **CIC-IDS2017**: https://www.unb.ca/cic/datasets/ids-2017.html
