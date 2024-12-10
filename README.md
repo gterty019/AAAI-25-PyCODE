@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e340c36-6085-4aaf-89d2-95698db79e4a)![image](https://github.com/user-attachments/assets/b20a4615-52a7-483a-80d3-10a13f08e998)# Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach Supplementary Material Section
+#Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach Supplementary Material Section#
 This repository reproduces the experiments of this AAAI 2025 entitled "Rare Event Detection in Imbalanced Multi-Class Datasets Using an Optimal MIP-Based Ensemble Weighting Approach"
 
 # Abstract
